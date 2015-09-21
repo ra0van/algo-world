@@ -1,2 +1,2 @@
-# algorithms_clone
+# py_algorithms
 Python Algorithms Modules
