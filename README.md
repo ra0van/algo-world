@@ -1,2 +1,4 @@
-# Py_Practice
-Practicing Data Structures and Algorithms in Python
+# Mega Projects
+Inspired from projects[https://github.com/karan/Projects]
+Solutions to some of the problems in the mega projects list
+
