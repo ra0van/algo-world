@@ -22,6 +22,7 @@ def Calculator(inputstr):
 	i=0
 	while i< len(inputstr):
 		token = inputstr[i]
+		#print token
 		if token == ' ':
 			continue
 		if token.isdigit():
@@ -50,10 +51,10 @@ def Calculator(inputstr):
 	return;			
 
 def main():
-#	print "inside"
-	inputStr = raw_input("Enter the expression to calculate \n")	
+	print "Enter the expression to calculate"
+	inputStr = sys.stdin.readline()
+	inputStr = inputStr.strip('\n').replace(' ','')
 	Calculator(inputStr)
-#	print "outside"
 	return
 if __name__ == '__main__':
 	main()
