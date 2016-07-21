@@ -11,14 +11,8 @@ Algorithms
 Sorting
 
 
----------
-
 Numbers
 ---------
 **Calculator** A simple calculator to do basic operations, with expression evaluator. 
-
-
----------
-
 
 ========
