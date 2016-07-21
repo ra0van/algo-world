@@ -1,4 +1,4 @@
-# Mega Projects
-Inspired from [projects](https://github.com/karan/Projects).<br>
-Solutions to some of  those problems
+# Mega Project
+Inspired from [Projects](https://github.com/karan/Projects).<br>
+Solutions to the list of problems mentioned below
 
