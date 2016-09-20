@@ -1,4 +1,4 @@
-# Mega Project
+# Algo-World
 
 Inspired from [Projects](https://github.com/karan/Projects).<br>
 
